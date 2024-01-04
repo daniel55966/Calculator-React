@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//daniel55966.github.io/Calculator-React/static/css/main.32a6db12.css",
+    "main.js": "/https//daniel55966.github.io/Calculator-React/static/js/main.7d730cb3.js",
+    "static/js/787.5f81c7f8.chunk.js": "/https//daniel55966.github.io/Calculator-React/static/js/787.5f81c7f8.chunk.js",
+    "index.html": "/https//daniel55966.github.io/Calculator-React/index.html",
+    "main.32a6db12.css.map": "/https//daniel55966.github.io/Calculator-React/static/css/main.32a6db12.css.map",
+    "main.7d730cb3.js.map": "/https//daniel55966.github.io/Calculator-React/static/js/main.7d730cb3.js.map",
+    "787.5f81c7f8.chunk.js.map": "/https//daniel55966.github.io/Calculator-React/static/js/787.5f81c7f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32a6db12.css",
+    "static/js/main.7d730cb3.js"
+  ]
+}
